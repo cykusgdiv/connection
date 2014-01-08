@@ -1,0 +1,12 @@
+since Processing 2.1 never allows me to export for different platforms, you will need to export on your own.
+
+go to
+http://processing.org/download/?processing
+and download processing 2.1 for your operating system.
+
+download and open one of the .pde files in the /version directory (e.g. /version/2014/evol 00/connection-2014-evol-00.pde)
+and export it.
+
+run connection-WHATEVER.exe (for Windows), or connection-WHATEVER in unix systems.
+
+have fun with this awfully unorganized program without any optimization. :)
